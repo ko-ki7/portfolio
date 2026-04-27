@@ -1,5 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Kouki Yamasaki
 
+## 👤 About me
+- 大学生
+- プログラミング学習中
+- Web開発やアプリ開発に興味があります
+
+## 💻 Skills (learning)
+- HTML / CSS
+- JavaScript
+- Python (勉強中)
+- C言語 (勉強中)
+
+## 🚀 Projects
+- プログラムではないがWebコーディングをしたことがある
+
+## 🎯 Goals
+- 自分でアプリを開発できるようになる
+- OSSに少しずつ参加する
+
+## 📫 Contact
+- Instagram: kouki.y012
 <!--
 **ko-ki7/ko-ki7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
