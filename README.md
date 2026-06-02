@@ -21,6 +21,7 @@
 
 ## 📫 Contact
 - Instagram: kouki.y012
+→https://www.instagram.com/kouki.y012?utm_source=qr
 <!--
 **ko-ki7/ko-ki7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
