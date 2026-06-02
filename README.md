@@ -10,13 +10,14 @@
 - JavaScript
 - Python (勉強中)
 - C言語 (勉強中)
+- MySQL(勉強中)
 
 ## 🚀 Projects
-- プログラムではないがWebコーディングをしたことがある
+- Webコーディングをしたことがある
+- web_game_tetrisを作った
 
 ## 🎯 Goals
 - 自分でアプリを開発できるようになる
-- OSSに少しずつ参加する
 
 ## 📫 Contact
 - Instagram: kouki.y012
